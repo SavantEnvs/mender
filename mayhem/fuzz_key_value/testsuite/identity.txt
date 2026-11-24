@@ -1,0 +1,5 @@
+=mac=de:ad:be:ef:00:01
+serial=123
+mac=aa
+empty=
+noequals

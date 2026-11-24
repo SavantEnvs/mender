@@ -1,0 +1,4 @@
+{"timestamp": "2016-03-11T13:03:17.063493443Z", "level": "INFO", "message": "foo"}
+{"timestamp": "2020-03-11T13:03:17.063493443Z", "level": "ERROR", "message": "bar"}
+not json at all
+{"timestamp": "2020-03-11T13:03:17Z", "level": "DEBUG", "message": "baz \" quoted"}

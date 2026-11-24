@@ -1,0 +1,3 @@
+{"level": "INFO", "message": "no timestamp"}
+
+{"timestamp": "bad", "message": "x"}

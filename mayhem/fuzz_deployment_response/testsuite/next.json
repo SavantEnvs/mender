@@ -1,0 +1,1 @@
+{"id":"w81s4fae-7dec-11d0-a765-00a0c91e6bf6","artifact":{"artifact_name":"release-v1","source":{"uri":"https://aws.myservice.com/image?X-Amz-Expires=86400","expire":"2016-03-11T13:03:17.063493443Z"},"device_types_compatible":["raspberrypi3"]}}

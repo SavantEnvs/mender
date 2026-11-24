@@ -1,0 +1,11 @@
+project: savantenvs/mender
+target: fuzz_http_url
+
+cmds:
+  - cmd: /mayhem/fuzz_http_url
+    libfuzzer: true
+    timeout: 5
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_http_url/testsuite
